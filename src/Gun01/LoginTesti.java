@@ -8,6 +8,8 @@ public class LoginTesti {
 
         // çok satır yazdım ve kodları bitirdim
         System.out.println("Login Testi 1");
-        
+
+        System.out.println("Sepet testi yazıldı bitirildi, 3 günlük kod yazıldı");
+
     }
 }
